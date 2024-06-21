@@ -1,0 +1,3 @@
+PA3.py --target purple --wordbank purp p ur le purpl
+PA3.py --target hello --wordbank cat dog mouse
+PA3.py --target '' --wordbank cat dog mouse
